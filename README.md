@@ -32,7 +32,7 @@ The projects demonstrate hands-on experience with **dataframes, filtering, sorti
   - Calculating average MPG per manufacturer and year
   - Sorting and filtering for analysis
   - Aggregating metrics to compare fuel efficiency across models
-- **View & run project:** [Cars MPG Colab Notebook](https://colab.research.google.com/drive/15lojr0rZdsk6qWuj2PizJ-Ecvv1S8KFK?usp=sharing)
+- **View & run project:** [Cars MPG Colab Notebook](https://colab.research.google.com/drive/12UxEzTgr126waszoh474UzuJ8OhVx-sb?usp=sharing)
 
 ### 2. Penguins Dataset
 - Dataset contains information on **penguin species**, including island, bill length & depth, flipper length, body mass, sex, and year.
@@ -41,7 +41,7 @@ The projects demonstrate hands-on experience with **dataframes, filtering, sorti
   - Cleaning missing or inconsistent data
   - Calculating averages and conditional statistics by species and island
   - Comparing body metrics across populations
-- **View & run project:** [Penguins Dataset Colab Notebook](https://colab.research.google.com/drive/12UxEzTgr126waszoh474UzuJ8OhVx-sb?usp=sharing)
+- **View & run project:** [Penguins Dataset Colab Notebook](https://colab.research.google.com/drive/15lojr0rZdsk6qWuj2PizJ-Ecvv1S8KFK?usp=sharing)
 
 ---
 
